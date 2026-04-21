@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "hoyoverse.zzz",
+  "publisher_slug": "hoyoverse",
+  "game_slug": "zzz",
+  "display_name": "Zenless Zone Zero",
+  "publisher": "HoYoverse",
+  "install_strategy": "hoyo_sophon",
+  "app_id_prefix": "zzz",
+  "editions": [
+    {
+      "id": "global",
+      "label": "Global",
+      "exe_name": "ZenlessZoneZero.exe",
+      "data_folder": "ZenlessZoneZero_Data"
+    },
+    {
+      "id": "china",
+      "label": "China",
+      "exe_name": "ZenlessZoneZero.exe",
+      "data_folder": "ZenlessZoneZero_Data"
+    }
+  ],
+  "voice_locales": [
+    { "id": "en-us", "label": "English", "folder_name": "English(US)" },
+    { "id": "ja-jp", "label": "Japanese", "folder_name": "Japanese" },
+    { "id": "ko-kr", "label": "Korean", "folder_name": "Korean" },
+    { "id": "zh-cn", "label": "Chinese", "folder_name": "Chinese" }
+  ],
+  "default_library_template": "{home}/Games/HoYo",
+  "install_folder_name": "Zenless Zone Zero",
+  "category": "HoYoverse",
+  "launch_patch": "",
+  "anti_cheat": "miHoYoProtect",
+  "runner_preference": ["GE-Proton", "wine-ge"],
+  "telemetry_block": [
+    "zzz-log-upload-os.hoyoverse.com",
+    "log-upload-os.hoyoverse.com",
+    "sg-public-data-api.hoyoverse.com"
+  ],
+  "letter_fallback": "Z"
+}

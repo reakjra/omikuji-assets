@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "id": "kurogame.pgr",
+  "publisher_slug": "kurogame",
+  "game_slug": "pgr",
+  "display_name": "Punishing: Gray Raven",
+  "publisher": "Kuro Games",
+  "install_strategy": "kuro_resource_index",
+  "app_id_prefix": "pgr",
+  "editions": [
+    {
+      "id": "global",
+      "label": "Global",
+      "exe_name": "PGR.exe",
+      "data_folder": "PGR_Data"
+    },
+    {
+      "id": "china",
+      "label": "China",
+      "exe_name": "PGR.exe",
+      "data_folder": "PGR_Data"
+    }
+  ],
+  "voice_locales": [],
+  "default_library_template": "{home}/Games/KuroGames",
+  "install_folder_name": "Punishing Gray Raven",
+  "category": "Kuro Games",
+  "launch_patch": "",
+  "anti_cheat": "KRSDK",
+  "runner_preference": ["GE-Proton", "wine-ge"],
+  "telemetry_block": [],
+  "letter_fallback": "P",
+  "uses_temp_dir": false
+}

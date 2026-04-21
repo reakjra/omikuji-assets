@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "id": "hypergryph.endfield",
+  "publisher_slug": "hypergryph",
+  "game_slug": "endfield",
+  "display_name": "Arknights: Endfield",
+  "publisher": "Hypergryph",
+  "install_strategy": "gryphline_resource_patch",
+  "app_id_prefix": "endfield",
+  "editions": [
+    {
+      "id": "global",
+      "label": "Global",
+      "exe_name": "Endfield.exe",
+      "data_folder": "Endfield_Data"
+    },
+    {
+      "id": "china",
+      "label": "China",
+      "exe_name": "Endfield.exe",
+      "data_folder": "Endfield_Data"
+    }
+  ],
+  "voice_locales": [],
+  "default_library_template": "{home}/Games",
+  "install_folder_name": "ArknightsEndfield",
+  "category": "Gryphline",
+  "launch_patch": "",
+  "anti_cheat": "ACE",
+  "runner_preference": ["GE-Proton", "dwproton"],
+  "telemetry_block": [],
+  "letter_fallback": "A"
+}
