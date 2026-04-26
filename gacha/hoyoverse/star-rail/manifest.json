@@ -12,15 +12,18 @@
       "id": "global",
       "label": "Global",
       "exe_name": "StarRail.exe",
-      "data_folder": "StarRail_Data"
+      "data_folder": "StarRail_Data",
+      "strategy_config": { "biz_id": "4ziysqXOQ8" }
     },
     {
       "id": "china",
       "label": "China",
       "exe_name": "StarRail.exe",
-      "data_folder": "StarRail_Data"
+      "data_folder": "StarRail_Data",
+      "strategy_config": { "biz_id": "64kMb5iAWu" }
     }
   ],
+  "strategy_config": { "needs_jadeite": true },
   "voice_locales": [
     { "id": "en-us", "label": "English", "folder_name": "English(US)" },
     { "id": "ja-jp", "label": "Japanese", "folder_name": "Japanese" },

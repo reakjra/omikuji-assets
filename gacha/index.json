@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "gachas": [
+    { "publisher": "hoyoverse", "game": "genshin" },
+    { "publisher": "hoyoverse", "game": "honkai-impact" },
+    { "publisher": "hoyoverse", "game": "star-rail" },
+    { "publisher": "hoyoverse", "game": "zzz" },
+    { "publisher": "hypergryph", "game": "endfield" },
+    { "publisher": "kurogame", "game": "pgr" },
+    { "publisher": "kurogame", "game": "wuwa" }
+  ]
+}

@@ -12,15 +12,18 @@
       "id": "global",
       "label": "Global",
       "exe_name": "BH3.exe",
-      "data_folder": "BH3_Data"
+      "data_folder": "BH3_Data",
+      "strategy_config": { "biz_id": "5TIVvvcwtM" }
     },
     {
       "id": "china",
       "label": "China",
       "exe_name": "BH3.exe",
-      "data_folder": "BH3_Data"
+      "data_folder": "BH3_Data",
+      "strategy_config": { "biz_id": "osvnlOc0S8" }
     }
   ],
+  "strategy_config": { "needs_jadeite": false },
   "voice_locales": [
     { "id": "en-us", "label": "English", "folder_name": "English(US)" },
     { "id": "ja-jp", "label": "Japanese", "folder_name": "Japanese" },

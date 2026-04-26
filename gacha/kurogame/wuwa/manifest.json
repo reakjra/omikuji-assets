@@ -12,13 +12,19 @@
       "id": "global",
       "label": "Global",
       "exe_name": "Client/Binaries/Win64/Client-Win64-Shipping.exe",
-      "data_folder": "Client/Content"
+      "data_folder": "Client/Content",
+      "strategy_config": {
+        "index_url": "https://prod-alicdn-gamestarter.kurogame.com/launcher/game/G153/50004_obOHXFrFanqsaIEOmuKroCcbZkQRBC7c/index.json"
+      }
     },
     {
       "id": "china",
       "label": "China",
       "exe_name": "Client/Binaries/Win64/Client-Win64-Shipping.exe",
-      "data_folder": "Client/Content"
+      "data_folder": "Client/Content",
+      "strategy_config": {
+        "index_url": "https://prod-alicdn-gamestarter.kurogame.com/launcher/game/G153/50009_ZXniDENS4vnMhNEhl7cLOQMojTLKLGgu/index.json"
+      }
     }
   ],
   "voice_locales": [],

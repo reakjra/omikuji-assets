@@ -12,13 +12,27 @@
       "id": "global",
       "label": "Global",
       "exe_name": "Endfield.exe",
-      "data_folder": "Endfield_Data"
+      "data_folder": "Endfield_Data",
+      "strategy_config": {
+        "api_base": "https://launcher.gryphline.com/api",
+        "game_appcode": "YDUTE5gscDZ229CW",
+        "launcher_appcode": "TiaytKBUIEdoEwRT",
+        "channel": 6,
+        "sub_channel": 6
+      }
     },
     {
       "id": "china",
       "label": "China",
       "exe_name": "Endfield.exe",
-      "data_folder": "Endfield_Data"
+      "data_folder": "Endfield_Data",
+      "strategy_config": {
+        "api_base": "https://launcher.hypergryph.com/api",
+        "game_appcode": "6LL0KJuqHBVz33WK",
+        "launcher_appcode": "abYeZZ16BPluCFyT",
+        "channel": 1,
+        "sub_channel": 1
+      }
     }
   ],
   "voice_locales": [],

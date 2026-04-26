@@ -12,13 +12,19 @@
       "id": "global",
       "label": "Global",
       "exe_name": "PGR.exe",
-      "data_folder": "PGR_Data"
+      "data_folder": "PGR_Data",
+      "strategy_config": {
+        "index_url": "https://prod-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G143/4/index.json"
+      }
     },
     {
       "id": "china",
       "label": "China",
       "exe_name": "PGR.exe",
-      "data_folder": "PGR_Data"
+      "data_folder": "PGR_Data",
+      "strategy_config": {
+        "index_url": "https://prod-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G143/1/index.json"
+      }
     }
   ],
   "voice_locales": [],
