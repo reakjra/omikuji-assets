@@ -24,6 +24,7 @@
     }
   ],
   "strategy_config": { "needs_jadeite": true },
+  "uses_temp_dir": false,
   "voice_locales": [
     { "id": "en-us", "label": "English", "folder_name": "English(US)" },
     { "id": "ja-jp", "label": "Japanese", "folder_name": "Japanese" },
